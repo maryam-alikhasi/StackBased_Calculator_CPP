@@ -6,19 +6,19 @@ A command-line stack-based calculator implemented in C++ using object-oriented d
 
 ## Features
 
-- ✅ Stack-based expression evaluation
-- ✅ Supports the following operators:
+- Stack-based expression evaluation
+- Supports the following operators:
   - Addition (`+`)
   - Subtraction (`-`)
   - Multiplication (`*`)
   - Division (`/`)
   - Power (`^`)
   - Factorial (`!`)
-- ✅ Recognizes constants:
+- Recognizes constants:
   - Pi (`PI` or `-PI`) → 3.14 / -3.14
   - e (`e` or `-e`) → 2.71 / -2.71
-- ✅ Handles parentheses correctly
-- ✅ Basic error handling:
+- Handles parentheses correctly
+- Basic error handling:
   - Invalid expression format
   - Mismatched parentheses
   - Division by zero
